@@ -18,6 +18,8 @@ Copy s3upload.py to your local machine. Add the previously provided AWS access k
 
 '''
 AWS_ACCESS_KEY_ID = ''
+'''
+'''
 AWS_SECRET_ACCESS_KEY = ''
 '''
 
