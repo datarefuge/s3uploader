@@ -17,10 +17,10 @@ Tested on Mac OSX with Python 2.7.12 and Python 2.7.11
 Copy s3upload.py to your local machine. Add the previously provided AWS access key to the the following location:
 
 '''
-AWS_ACCESS_KEY_ID = ''
+AWS_ACCESS_KEY_ID = ' '
 '''
 '''
-AWS_SECRET_ACCESS_KEY = ''
+AWS_SECRET_ACCESS_KEY = ' '
 '''
 
 ## Troubleshooting
