@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-Script used to upload large files to s3 bucket
+Script used to perform multipart uploads of large files to s3 bucket. You can upload objects that are larger than 5 GB in size.
 
 ## Usage
 
